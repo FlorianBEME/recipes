@@ -178,51 +178,51 @@
     {
         "id":5,
         "name":"Riz au lait",
-        "desccription":"",
-        "image":"https://assets.afcdn.com/recipe/20190920/98512_w768h583c1cx320cy300cxb640cyb600.webp",
-        "cooking_time": 50,
+        "desccription":"Mettez une noix de beurre à fondre dans une casserole. Ajoutez le riz en remuant sur feu moyen pendant 3-4 mn. Versez le lait entier, puis le sucre, la pincée de sel et la gousse de vanille fendue. Remuez et baissez le feu. Il faut que le lait chauffe très doucement. Laissez cuire en surveillant et en remuant souvent pour éviter que le riz ne colle au fond. Après 35 mn, vérifiez la cuison et la consistance. Il faut que le lait soit crémeux et que le riz soit bien cuit. Retirez la gousse de vanille et rectifiez le goût pour le sucre. Verser dans des petits ramequins individuels et laisser refroidir. ",
+        "image":"https://assets.afcdn.com/recipe/20130924/28980_w1200h824c1cx2670cy1833.webp",
+        "cooking_time": 35,
         "ingredients": [
             {
-                "name":"Champignons",
-                "quantity":"1 boîte"
+                "name":"Sucre",
+                "quantity":"4 à 5 cuillières"
             },
             {
-                "name":"Vin blanc",
-                "quantity":"70 cL"
+                "name":"Gousse de vanille",
+                "quantity":"1"
             },
             {
-                "name":"Maïzena",
-                "quantity":"2c.à.s"
+                "name":"Riz",
+                "quantity":"1 tasse"
             },
             {
-                "name":"Quenelles",
-                "quantity":"24"
+                "name":"Lait",
+                "quantity":"90cL"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Gratin de macaronis",
+        "desccription":"Après avoir porté de l'eau à ébullition, plongez la totalité des macaronis et les laisser cuire le temps indiqué sur le paquet de manière à ce qu'ils soient tout de même al dente. Pendant la cuisson des pâtes, faites fondre votre cube dans environ 25 cl d'eau bouillante, puis ajouter le berlingot de crème fraîche. Retirez du feu et mettre en attente. Lorsque vous égoutter les macaronis il est conseillé de les rincer à l'eau tiède ou froide. Vous les répartissez ensuite dans un plat à gratin de manière homogène, puis vous y versez votre bouillon. Veillez à ne pas faire baigner les pâtes (si c'est le cas retirez un peu de liquide). Mettre du gruyère sur le tout à votre goût. Mettre à cuire environ 15 min à chaleur tournante (180/200°C). Le gratin doit être légèrement gratiné. Si vous avez le temps laissez-le un peu de côté, quitte à le faire réchauffer au moment de passer à table (il est plus gonflé et meilleur)",
+        "image":"https://assets.afcdn.com/recipe/20200220/107948_w768h583c1cx3858cy1808cxb5518cyb3840.webp",
+        "cooking_time": 15,
+        "ingredients": [
+            {
+                "name":"Cube de bouillon",
+                "quantity":"1"
             },
             {
-                "name":"Olives vertes",
-                "quantity":"250g"
-            },
-            {
-                "name":"Olives noires",
-                "quantity":"125g"
+                "name":"Macaroni",
+                "quantity":"500g"
             },
             {
                 "name":"Crème fraîche",
                 "quantity":"20cL"
             },
             {
-                "name":"Beurre",
-                "quantity":"50g"
-            },
-            {
-                "name":"Coulis tomate",
-                "quantity":"250g"
-            },
-            {
-                "name":"Oeufs",
-                "quantity":"2"
+                "name":"Emmental râpé",
+                "quantity":"100g"
             }
-            
         ]
     }
 ]
