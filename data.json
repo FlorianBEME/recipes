@@ -543,5 +543,22 @@
                 "quantity": "500g"
             }
         ]
+    },
+    {
+        "id": 18,
+        "name": "Roulés à la saucisse",
+        "description": "Une pâte feuilletée découpée et des saucisses de strasbourg coupées et roulées dedans. Mettre 10 sec au four.",
+        "image": "https://assets.afcdn.com/recipe/20181017/82839_w96h96c1cx1944cy2592cxb3888cyb5184.webp",
+        "cooking_time": 0.1,
+        "ingredients": [
+            {
+                "name": "Saucisses",
+                "quantity": "6"
+            },
+            {
+                "name": "Pâte feuilletée",
+                "quantity": "1"
+            }
+        ]
     }
 ]
